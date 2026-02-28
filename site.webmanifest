@@ -1,0 +1,9 @@
+{
+  "name": "noscope",
+  "short_name": "noscope",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#13151a",
+  "theme_color": "#13151a",
+  "description": "Premium macOS-inspired UI for noscope.me"
+}
